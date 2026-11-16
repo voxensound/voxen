@@ -1,2 +1,2 @@
-# voxen
+# VOXEN
 Voxen site
